@@ -1,0 +1,7 @@
+#iclude<studio.h>
+
+int main()
+{
+printf("JAY BHOLENATH");
+    return 0;
+}
